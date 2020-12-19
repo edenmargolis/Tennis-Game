@@ -1,5 +1,6 @@
 # Tennis-Game
 a simple JS game against an AI computer.
+
 How to play the game:
 1. download the html file into your computer.
 2. open it on your favourite browser.
